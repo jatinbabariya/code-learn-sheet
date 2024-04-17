@@ -37,7 +37,17 @@
     | --- | -------- | ---------------- | ----------------------------------------- |
     | 1   | John Doe | jdoe@example.com | ![image missing](https://placehold.co/25) |
 
-> ## Js advance practice
+4.  Create a todo form where input will be date and todo-text.
+
+    - [x] on submit of todo form output should be inside the one div where all todo will be separated by card. and card will be in order of date.
+
+5.  Create a programme that will print below output in console.
+    ```javascript
+                  *
+                * * *
+              * * * * *
+            * * * * * * *
+    ```
 
 ### String
 
