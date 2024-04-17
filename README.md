@@ -42,12 +42,25 @@
     - [x] on submit of todo form output should be inside the one div where all todo will be separated by card. and card will be in order of date.
 
 5.  Create a programme that will print below output in console.
+
     ```javascript
                   *
                 * * *
               * * * * *
             * * * * * * *
     ```
+
+6.  Create Basic Form
+
+    - [x] on submit form output should be in below format into the table
+
+    - Add images option in form and form must accept only png images
+
+    - On Clicking particular button functionality should be implemented
+
+    | No. | Name     | Email            | Profile Photo                             | Action                                                                                                                |
+    | --- | -------- | ---------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+    | 1   | John Doe | jdoe@example.com | ![image missing](https://placehold.co/25) | ![Static Badge](https://img.shields.io/badge/Edit-4CAF50) ![Static Badge](https://img.shields.io/badge/Delete-FF0000) |
 
 ### String
 
