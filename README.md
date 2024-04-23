@@ -62,6 +62,20 @@
     | --- | -------- | ---------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
     | 1   | John Doe | jdoe@example.com | ![image missing](https://placehold.co/25) | ![Static Badge](https://img.shields.io/badge/Edit-4CAF50) ![Static Badge](https://img.shields.io/badge/Delete-FF0000) |
 
+7.  Create Basic Form
+
+    - [x] on submit form output should be in below format into the table
+
+    - Add images option in form and form must accept only png images
+
+    - On Clicking particular button functionality should be implemented
+
+    - On refreshing the page data must be remain.
+
+    | No. | Name     | Email            | Profile Photo                             | Action                                                                                                                |
+    | --- | -------- | ---------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+    | 1   | John Doe | jdoe@example.com | ![image missing](https://placehold.co/25) | ![Static Badge](https://img.shields.io/badge/Edit-4CAF50) ![Static Badge](https://img.shields.io/badge/Delete-FF0000) |
+
 ### String
 
 ```javascript
